@@ -30,6 +30,8 @@ $(document).ready(function() {
 		$('.ryu-throwing').show();
 	});
 
+
+
 });
 
 function playHadouken () {
