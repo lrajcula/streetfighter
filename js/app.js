@@ -31,6 +31,14 @@ $(document).ready(function() {
 	});
 
 
+	$(document).keydown(function(e) {
+        if(e.keyCode == 88)
+            $('.ryu-still').hide();
+            $('.ryu-cool').show();
+        }); 
+    
+       
+
 
 });
 
